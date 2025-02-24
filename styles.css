@@ -1,0 +1,21 @@
+@font-face {
+	font-family: bigNoodleTitling;
+	src: url(fonts/big_noodle_titling.ttf);
+}
+
+body {
+	text-align: center;
+	font-family: bigNoodleTitling, 'Lexend Deca', sans-serif; 
+	font-size: 40px;
+	color: #2E475D;
+	background-color: #fafafa;
+}
+
+div {
+	left: 0;
+    margin-top: -200px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
